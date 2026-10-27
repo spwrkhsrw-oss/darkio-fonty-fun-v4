@@ -1,0 +1,14 @@
+{
+  "name": "Darkio Fonty Fun",
+  "description": "V4 local-only display styling with expanded Unicode presets, custom colors, and smoother animations.",
+  "authors": [
+    {
+      "name": "Darkio"
+    }
+  ],
+  "main": "builds/dev.darkio.fonty-fun/index.js",
+  "vendetta": {
+    "icon": "PaintbrushIcon"
+  },
+  "hash": "13c7a7eb7f4408cb7f975a8d0b82d7a338df7bb32ca9ec96dbfaaee4d84361cf"
+}
